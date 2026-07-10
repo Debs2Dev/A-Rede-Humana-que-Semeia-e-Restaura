@@ -7,19 +7,19 @@ Repositório focado na Rede de Sementes do Xingu e na técnica da Muvuca, integr
 -Compreender a técnica da Muvuca de Sementes como motor de restauração em larga escala
 -Explorar o impacto social da rede na vida de coletores indígenas, camponeses e urbanos
 
-Miniguia de Estudo
+2. Miniguia de Estudo
 Resumos Estruturados
 -Origem: Campanha Y Ikatu Xingu para proteger as águas do Xingu
 -Modelo de Negócio: Coleta comunitária -> comercialização de sementes -> restauração ecológica
 -Impacto Ambiental: Recuperação do Cerrado e Amazônia com diversidade de espécies
 
-Glossário de Conceitos
+3. Glossário de Conceitos
 -Muvuca: Técnica de semeadura direta que utiliza uma mistura diversa de sementes nativas e areia para cobrir o solo e iniciar a floresta
 -Y Ikatu Xingu: Expressão em língua Kamaiurá que significa "Salve a Água Boa do Xingu"
 -Matrizes de Coleta: Árvores selecionadas na floresta de onde os coletores retiram as sementes para garantir a qualidade e diversidade
 -Sociobiodiversidade: A valorização da união entre a diversidade biológica e os conhecimentos tradicionais dos povos
 
-3. Mini E-book: O Poder da Muvuca
+4. Mini E-book: O Poder da Muvuca
 Capítulo 1: O Surgimento do Sonho
 A história começa em 2007, nas cabeceiras do Rio Xingu, Mato Grosso. Diante da degradação das matas ciliares que sujavam as águas dos rios, os povos indígenas criaram a campanha "Y Ikatu Xingu" (Salve a Água Boa do Xingu).O que era uma "sementinha" transformou-se em uma organização que hoje coordena mais de 700 coletores.
 
@@ -33,8 +33,8 @@ Capítulo 4: Muvuca de Gente
 O maior segredo da rede não está apenas na terra, mas na conexão entre as pessoas. É uma união entre indígenas, assentados e moradores urbanos, onde o conhecimento sofisticado das comunidades locais é valorizado e gera "vida nova" e esperança para as futuras gerações.
 
 Curadoria de Fontes (Referências)
-"A gente faz floresta #15anos" [Youtube]
-"Associação Rede de Sementes do Xingu | "LinkedIn"
-"O Caminho das Sementes" [Youtube]
-"Rede de Sementes do Xingu - YouTube" [Canal Oficial]
-"Página Oficial do Facebook"
+-"A gente faz floresta #15anos" [Youtube]
+-"Associação Rede de Sementes do Xingu | "LinkedIn"
+-"O Caminho das Sementes" [Youtube]
+-"Rede de Sementes do Xingu - YouTube" [Canal Oficial]
+-"Página Oficial do Facebook"
